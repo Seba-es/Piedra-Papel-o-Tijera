@@ -5,4 +5,4 @@
 ### Ingresa en tu consola: python juego.py papel
 ### Computador juega tijera
 ### Te ganó la computadora
-### Fin del Programa
+### Fin del Programa.
