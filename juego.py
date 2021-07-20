@@ -1,4 +1,4 @@
-""" PIedra papel o tijera
+""" Piedra papel o tijera
 Casos posibles 7 : piedra papel(viceversa), papel tijera(viceverda), tijera piedra(vicerversa), empate
 * Asociar un número con piedra, papel o tijera 
 * Hacer que el número selecionado por el programa sea aleatorio
